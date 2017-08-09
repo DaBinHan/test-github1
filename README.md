@@ -75,4 +75,4 @@ plt.plot(testY)
 plt.plot(testPredict)
 plt.show()
 ```
-  
+> try fork from DaBinHan
