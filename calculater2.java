@@ -31,6 +31,10 @@ public class calculater{
     return a*b;
   }
   private static int division(int a,int b){
+<<<<<<< HEAD
     return a/b; //mark by master
+=======
+    return a/b;//mark by division
+>>>>>>> division
   }
 }
