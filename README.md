@@ -1,5 +1,6 @@
 # 2017 hjhjpark 박형준
 *test pull*
+*add multi() method*
 > university : Sogang univ
 
 > major : Computer engineering / Economics
@@ -75,5 +76,3 @@ plt.plot(testPredict)
 plt.show()
 ```
   
-
-
