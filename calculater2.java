@@ -30,4 +30,7 @@ public class calculater{
   private static int multi(int a,int b){
     return a*b;
   }
+  private static int division(int a,int b){
+    return a/b;//mark by division
+  }
 }
