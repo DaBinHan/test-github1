@@ -1,7 +1,7 @@
 # 2017 hjhjpark 박형준
 
-> university : sogang univ.
-  major : computer engineering / econimics
+> university : Sogang univ.
+> major : Computer engineering / Economics
 
 ----
 
@@ -11,12 +11,12 @@
   * CNN
   * RNN
 * data mining
-  * economic analysis
-  * sentimental dictionary
-  * opinion mining
+  * economic analysis
+  * sentimental dictionary
+  * opinion mining
   * text mining
 * database
-  * bigdata management
+  * bigdata management
   
 1.  tensorflow code
 ```python
