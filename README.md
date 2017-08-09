@@ -1,7 +1,7 @@
 # 2017 hjhjpark 박형준
 
->학교 : 서강대학교
->전공 : 컴퓨터공학/ 경제학
+> 학교 : 서강대학교
+  전공 : 컴퓨터공학/ 경제학
 
 ----
 
@@ -16,8 +16,8 @@
   * opinion mining
   * text mining
 * database
-  *
-  
+  * 빅데이터구축
+  
 1.  tensorflow code
 ```python
 import tensorflow as tf
