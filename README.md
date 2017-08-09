@@ -1,22 +1,22 @@
 # 2017 hjhjpark 박형준
 
-> 학교 : 서강대학교
-  전공 : 컴퓨터공학/ 경제학
+> university : sogang univ.
+  major : computer engineering / econimics
 
 ----
 
-## 연구분야
+## research field
 
 * tensorflow
   * CNN
   * RNN
 * data mining
-  * 경제지표분석
-  * 감성사전
+  * economic analysis
+  * sentimental dictionary
   * opinion mining
   * text mining
 * database
-  * 빅데이터구축
+  * bigdata management
   
 1.  tensorflow code
 ```python
