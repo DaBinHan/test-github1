@@ -1,6 +1,7 @@
 # 2017 hjhjpark 박형준
 
-> university : Sogang univ.
+> university : Sogang univ
+
 > major : Computer engineering / Economics
 
 ----
